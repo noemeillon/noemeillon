@@ -2,7 +2,7 @@
 
 I am currently working as a Software Engineering intern at [Lloyds Banking Group](https://www.lloydsbankinggroup.com/) within the Card Servicing lab for the year 2021-2022. Apart from that, I am in my penultimate year of a Computer Science with a Year in Industry BSc at [King's College London](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc).
 
-Fond of technology, I keep pushing myself to develop my skills in Computer Science, especially in Low-latency & Distributed Systems, Cloud technologies and Machine Learning.
+Fond of technology, I keep pushing myself to develop my skills in Computer Science, especially in Low-latency & Distributed Systems, Cloud Technologies and Machine Learning.
 
 If you like my profile, feel free to email me at noe.meillon@kcl.ac.uk or connect with me on [LinkedIn](https://www.linkedin.com/in/noemeillon/)! 👥💬
 
