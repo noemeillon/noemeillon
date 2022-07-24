@@ -1,6 +1,8 @@
 # Hi there, I am Noe 👋
 
-I am currently working as a Software Engineering intern at [Lloyds Banking Group](https://www.lloydsbankinggroup.com/) within the Card Servicing lab for the year 2021-2022. Apart from that, I am in my penultimate year of a Computer Science with a Year in Industry BSc at [King's College London](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc).
+I am currently working as a Software Engineering intern at [BlackRock](https://www.blackrock.com/) working within the Aladdin Product Group division delivering of stakeholders focused features on BlackRock's Aladdin ecosystem. Beforehand, for the year 2021-2022, I was Back-end Software Engineering intern at [Lloyds Banking Group](https://www.lloydsbankinggroup.com/) implementing a push provisioning infrastucture enabling our customers to register easily for Visa's [Click to Pay] (https://usa.visa.com/pay-with-visa/checkout.html) services.
+
+Apart from that, I am in my final year of a Computer Science with a Year in Industry BSc at [King's College London](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc).
 
 Fond of technology, I keep pushing myself to develop my skills in Computer Science, especially in Low-latency & Distributed Systems, Cloud Technologies and Machine Learning.
 
